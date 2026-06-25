@@ -6,5 +6,6 @@ Thursday. 25/6/2026
 Hari pertama belajar modul AI DKA3223.
 Macam susah tapi takpa
 
-new-test-bracnh
+new-test-branch telah update ini tadi. 
+heheheha
 
